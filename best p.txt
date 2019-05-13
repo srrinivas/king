@@ -1,0 +1,7 @@
+head
+style
+tar
+vi
+cat
+/style
+/head
